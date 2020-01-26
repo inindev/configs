@@ -1,0 +1,10 @@
+{
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/User/themes/clarkokai.tmTheme",
+	"font_size": 15,
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
